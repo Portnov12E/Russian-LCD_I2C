@@ -1,5 +1,5 @@
-#ifndef _LCD_1602_RUS
-#define _LCD_1602_RUS
+#ifndef _lcdi2crus
+#define _lcdi2crus
 
 #if defined(ARDUINO) && ARDUINO >= 100
   #include "Arduino.h"
